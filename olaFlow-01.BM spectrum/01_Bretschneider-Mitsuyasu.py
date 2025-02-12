@@ -5,8 +5,8 @@ import math
 #import matplotlib.pyplot as plt
 
 # Modified Bretschneider-Mitsuyasu parameters
-Hs = 4.5  # significant wave height
-Tp = 15.8  # peak period
+Hs = 4.5    # significant wave height
+Tp = 15.8   # peak period
 n_waves = 250
 
 def mbm(f, Hm0, Tp, df):
